@@ -1,6 +1,6 @@
 # Youtube API Project / Automated Data Extraction System
 
-This project leverages the YouTube Data API, using an API key, to interact with YouTube's vast video repository.It allows users to search for videos, retrieve channel information, and get details about playlists. This project demonstrates how to authenticate and interact with YouTube's Data API to perform these tasks efficiently. In this project, I particularly focused on Youtube student influencer, Breanna Quan's, page. Note that, for security purposed, I took out the API key.
+This project leverages the YouTube Data API, using an API key, to interact with YouTube's vast video repository.It allows users to search for videos, retrieve channel information, and get details about playlists. This project demonstrates how to authenticate and interact with YouTube's Data API to perform these tasks efficiently. In this project, I particularly focused on Youtube student influencer, Breanna Quan's, page. Note that, for security compromise purposes, I took out the API key.
 
 ## Features
 
